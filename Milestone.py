@@ -1,4 +1,4 @@
-bjhbhjpip install python-docx ipywidgets
+install python-docx ipywidgets
 import io
 import re
 from docx import Document
